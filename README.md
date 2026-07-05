@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
-<b><i>Edição 2026</i></b>
+<b><i>Edição 2026</i></b> 
 </p>
 
 # [GloboSec Week] Links:
