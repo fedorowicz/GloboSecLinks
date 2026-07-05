@@ -3,14 +3,14 @@
 </p>
 
 <p align="right">
-Edição 2026.
+<b><i>Edição 2026</i></b>
 </p>
 
 # [GloboSec Week] Links:
 
 ## 📆 Eventos de Tecnologia e SegInfo
 
-- [**50 principais eventos de Tecnologia no mundo (2026)**](https://www.linkedin.com/pulse/eventos-de-tecnologia-e-seguran%C3%A7a-2026-eduardo-fedorowicz-pmouf/)
+- [**50 principais eventos de Tecnologia no mundo (2026)**](https://www.linkedin.com/pulse/eventos-de-tecnologia-e-seguran%C3%A7a-2026-eduardo-fedorowicz-pmouf/) ⭐️
 - [Mapa Interativo com diversos eventos de Segurança no Brasil e no mundo](https://infosecmap.com/explore-map/?type=event&search_location=Visible%20map%20area&lat=-15.91675&lng=-43.87506&proximity=2411.68&sort=order-by-date)
 
 ---
@@ -117,7 +117,7 @@ Edição 2026.
 
 ## 💻 Segurança de Aplicações e Ciclo de Desenvolvimento Seguro
 
-- [**GitHub - globocom/secDevLabs: Um laboratório de aprendizado sobre desenvolvimento seguro**](https://github.com/globocom/secDevLabs)
+- [**GitHub - globocom/secDevLabs: Um laboratório de aprendizado sobre desenvolvimento seguro**](https://github.com/globocom/secDevLabs) ⭐️
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 - [OWASP Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/)
 - [Introduction - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
