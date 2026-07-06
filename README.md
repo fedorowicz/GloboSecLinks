@@ -25,22 +25,6 @@
   - Guia de estudos para iniciantes com 30 dias de desafios, atividades e materiais preparatórios para atuar no mercado de Cibersegurança
   - Autora: Sabrina Ramos (@meninadecybersec)
 
---- 
-
-## 🧭 Governança, Riscos e Privacidade
-
-- [NIST Cybersecurity Framework (CSF) 2.0](https://www.nist.gov/cyberframework)
-  - Framework de governança de risco cibernético, gratuito e referência mundial, organizado em 6 funções (Governar, Identificar, Proteger, Detectar, Responder e Recuperar)
-
-- [Cartilha de Segurança para Internet (CERT.br)](https://cartilha.cert.br/)
-  - Conteúdo de conscientização em português, dividido em fascículos temáticos com slides prontos para palestras e aulas
-
-- [ANPD — Guias Orientativos sobre a LGPD](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes)
-  - Guias oficiais da Autoridade Nacional de Proteção de Dados sobre agentes de tratamento, segurança da informação, incidentes e vazamento de dados
-  
-- [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
-  - Valores e princípios de threat modeling, ponte entre GRC, Segurança de Produtos e AppSec
-
 ---
 ## 🏅 Certificações em Segurança
 
@@ -70,10 +54,24 @@
 
 ---
 # Mais conteúdos, organizados por área de atuação: 
+ 
+## 🧭 Governança, Riscos e Privacidade
 
+- [NIST Cybersecurity Framework (CSF) 2.0](https://www.nist.gov/cyberframework)
+  - Framework de governança de risco cibernético, gratuito e referência mundial, organizado em 6 funções (Governar, Identificar, Proteger, Detectar, Responder e Recuperar)
 
+- [Cartilha de Segurança para Internet (CERT.br)](https://cartilha.cert.br/)
+  - Conteúdo de conscientização em português, dividido em fascículos temáticos com slides prontos para palestras e aulas
+
+- [ANPD — Guias Orientativos sobre a LGPD](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes)
+  - Guias oficiais da Autoridade Nacional de Proteção de Dados sobre agentes de tratamento, segurança da informação, incidentes e vazamento de dados
+  
+- [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
+  - Valores e princípios de threat modeling, ponte entre GRC, Segurança de Produtos e AppSec
+
+---
 ## 🛡️ Cibersegurança (Blue Team, Red Team, Cloud Security, Gestão de Exposição, etc)
-
+ 
 - #### Plataformas de Estudo
   - [Let's Defend](https://letsdefend.io)
     - Simulação de incidentes, playbooks e cursos voltados para cibersegurança.
@@ -83,23 +81,47 @@
     - Foco: **Cibersegurança Ofensiva (Red Team)**
   - [HackTheBox](https://www.hackthebox.com)
     - Plataforma de labs práticos de nível intermediário/avançado para desenvolver habilidades ofensivas e defensivas
-  - [picoCTF](https://picoctf.com)
+  - [CyLab Security Academy](https://cylabacademy.org/)
     - CTF educativo e gratuito, ótima porta de entrada para quem está começando em segurança ofensiva
-
 - #### Referências e Frameworks
   - [MITRE ATT&CK](https://attack.mitre.org/)
     - Base de conhecimento global sobre táticas e técnicas de adversários, usada tanto por Red quanto Blue Team
   - [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)
     - Ferramenta visual e interativa para mapear técnicas do ATT&CK
-
 - #### Cloud Security
   - [Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance](https://cloudsecurityalliance.org/education/ccsk)
     - Certificação de referência, vendor-neutral, em segurança de nuvem
-
 - #### AI Security
   - [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
     - Principais riscos de segurança em aplicações que usam LLMs (prompt injection, vazamento de dados sensíveis, poisoning, entre outros); também relevante para times de Segurança de Produtos que embarcam IA
-
+- #### 🎯 Red Team — Cursos Gratuitos e Referências de Estudo
+  - **AI Red Teaming**
+    - [Microsoft AI Red Team Training](https://learn.microsoft.com/en-us/security/ai-red-team/training)
+    - [Red Team Leaders — Cursos](https://courses.redteamleaders.com)
+  - **Cursos estruturados (gratuitos)**
+    - [TCM Security Academy — free tier](https://tcm-sec.com/course-access/free/)
+      - Mais de 25h de treinamento gratuito, incluindo fundamentos de hacking ético
+  - **Fundamentos, Notas e Frameworks**
+    - [Red Team Notes (ired.team)](https://www.ired.team/)
+      - Notas técnicas extensas sobre code execution, evasão, lateral movement e infraestrutura de C2
+    - [HackTricks](https://book.hacktricks.xyz/)
+      - Enciclopédia de técnicas de pentest, Red Team, cloud e privilege escalation
+    - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+      - Payloads e bypasses para praticamente toda categoria de ataque
+    - [LOLBAS Project](https://lolbas-project.github.io/)
+      - Binários nativos do Windows abusáveis para evasão ("living off the land")
+    - [GTFOBins](https://gtfobins.github.io/)
+      - Equivalente do LOLBAS para Unix/Linux
+  - **Labs práticos (ambientes para simular ataques)**
+    - [GOAD — Game of Active Directory](https://github.com/Orange-Cyberdefense/GOAD)
+      - Ambiente de Active Directory vulnerável, gratuito, para praticar técnicas de ataque a AD
+    - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
+      - Biblioteca open source de testes mapeados ao MITRE ATT&CK
+    - [MITRE Caldera](https://github.com/mitre/caldera)
+      - Plataforma open source de emulação automatizada de adversários
+  - **Infraestrutura e C2 (Command & Control)**
+    - [The C2 Matrix](https://howto.thec2matrix.com/)
+      - Comparação de frameworks de C2 usados em Red Team, com guia de instalação e uso
 ---
 
 ## 🔎 SOC e CTI (Monitoração, Threat Intelligence, SIEM/SOAR)
