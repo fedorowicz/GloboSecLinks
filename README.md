@@ -92,9 +92,8 @@
 - #### Cloud Security
   - [Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance](https://cloudsecurityalliance.org/education/ccsk)
     - Certificação de referência, vendor-neutral, em segurança de nuvem
----
  
-#### 🔵 Cursos Gratuitos e Referências de Estudo para Blue Team
+#### 🔵 Cursos e Referências de Estudo para Blue Team
  
 - [CyberDefenders](https://cyberdefenders.org/)
   - Plataforma de treinamento e cyber range com desafios gratuitos de SOC, DFIR, threat hunting e resposta a incidentes
@@ -104,9 +103,8 @@
   - Canal gratuito de referência em Digital Forensics e Incident Response (DFIR), com vídeos práticos sobre forense em Windows, Linux e memória
 - [Security Blue Team](https://www.securityblue.team/)
   - Plataforma com cursos gratuitos introdutórios e a trilha de certificação Blue Team Level 1 (BTL1), referência no mercado para analistas juniores de defesa
----
  
-#### 🔴 Cursos Gratuitos e Referências de Estudo para Red Team
+#### 🔴 Cursos e Referências de Estudo para Red Team
  
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
   - Repositório colaborativo com payloads, bypasses e técnicas de exploração para praticamente todo tipo de vulnerabilidade
