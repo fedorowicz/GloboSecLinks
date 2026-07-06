@@ -141,7 +141,7 @@
   - **Infraestrutura e C2 (Command & Control)**
     - [The C2 Matrix](https://howto.thec2matrix.com/)
       - Comparação de frameworks de C2 usados em Red Team, com guia de instalação e uso
-      - 
+
 ---
 
 ## 🔎 SOC e CTI (Monitoração, Threat Intelligence, SIEM/SOAR)
