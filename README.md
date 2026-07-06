@@ -70,6 +70,7 @@
   - Valores e princípios de threat modeling, ponte entre GRC, Segurança de Produtos e AppSec
 
 ---
+
 ## 🛡️ Cibersegurança (Blue Team, Red Team, Cloud Security, Gestão de Exposição, etc)
  
 - #### Plataformas de Estudo
@@ -90,8 +91,31 @@
     - Ferramenta visual e interativa para mapear técnicas do ATT&CK
 - #### Cloud Security
   - [Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance](https://cloudsecurityalliance.org/education/ccsk)
-    - Certificação de referência, vendor-neutral, em segurança de nuvem  
-- #### 🎯 Red Team — Cursos Gratuitos e Referências de Estudo
+    - Certificação de referência, vendor-neutral, em segurança de nuvem
+---
+ 
+## 🔵 Cursos Gratuitos e Referências de Estudo para Blue Team
+ 
+- [CyberDefenders](https://cyberdefenders.org/)
+  - Plataforma de treinamento e cyber range com desafios gratuitos de SOC, DFIR, threat hunting e resposta a incidentes
+- [Splunk — Free Training Courses (Blue Team Academy)](https://www.splunk.com/en_us/training/free-courses/overview.html)
+  - Cursos gratuitos sobre fundamentos de SOC, análise de logs e o papel do analista de defesa cibernética
+- [13Cubed (YouTube)](https://www.youtube.com/@13Cubed)
+  - Canal gratuito de referência em Digital Forensics e Incident Response (DFIR), com vídeos práticos sobre forense em Windows, Linux e memória
+- [Security Blue Team](https://www.securityblue.team/)
+  - Plataforma com cursos gratuitos introdutórios e a trilha de certificação Blue Team Level 1 (BTL1), referência no mercado para analistas juniores de defesa
+---
+ 
+## 🔴 Cursos Gratuitos e Referências de Estudo para Red Team
+ 
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+  - Repositório colaborativo com payloads, bypasses e técnicas de exploração para praticamente todo tipo de vulnerabilidade
+- [Metasploit Unleashed — Offensive Security](https://www.offensive-security.com/metasploit-unleashed/)
+  - Guia gratuito e completo sobre o framework Metasploit e metodologia de pentest, mantido pela Offensive Security
+- [IppSec (YouTube)](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+  - Canal gratuito de referência com walkthroughs detalhados de máquinas do HackTheBox, ótimo para aprender metodologia de exploração
+- [VulnHub](https://www.vulnhub.com/)
+  - Repositório gratuito de máquinas virtuais vulneráveis para praticar exploração offline, sem depender de labs online
   - **AI Red Teaming**
     - [Microsoft AI Red Team Training](https://learn.microsoft.com/en-us/security/ai-red-team/training)
     - [Red Team Leaders — Cursos](https://courses.redteamleaders.com)
@@ -149,7 +173,7 @@
 - [OWASP SAMM (Software Assurance Maturity Model)](https://owasp.org/www-project-samm/)
   - Modelo aberto de maturidade para formular e implementar uma estratégia de segurança de software adequada aos riscos da organização
 - [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
-    - Principais riscos de segurança em aplicações que usam LLMs (prompt injection, vazamento de dados sensíveis, poisoning, entre outros); também relevante para times de Segurança de Produtos que embarcam IA
+    - Principais riscos de segurança em aplicações que usam LLMs (prompt injection, vazamento de dados sensíveis, poisoning, entre outros)
 ---
 
 ## 🎬 Segurança de Conteúdo (Antipirataria, Vazamento e Ativos de Mídia)
