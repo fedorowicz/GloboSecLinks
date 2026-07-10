@@ -6,7 +6,7 @@
 <b><i>Edição 2026</i></b> 
 </p>
 
-# [GloboSec Week] Links:
+# [GloboSec - Links]:
 
 ## 📆 Eventos de Tecnologia e SegInfo
 
