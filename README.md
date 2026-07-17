@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
-<b><i>Edição 2026</i></b> 
+<b><i>Atualizado em Jul/2026 por Eduardo Fedorowicz</i></b> 
 </p>
 
 # [GloboSec - Links]:
